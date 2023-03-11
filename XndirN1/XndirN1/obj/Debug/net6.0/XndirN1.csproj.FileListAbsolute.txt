@@ -1,0 +1,15 @@
+C:\Users\User.DESKTOP-APSRJKR\source\repos\XndirN1\XndirN1\bin\Debug\net6.0\XndirN1.exe
+C:\Users\User.DESKTOP-APSRJKR\source\repos\XndirN1\XndirN1\bin\Debug\net6.0\XndirN1.deps.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\XndirN1\XndirN1\bin\Debug\net6.0\XndirN1.runtimeconfig.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\XndirN1\XndirN1\bin\Debug\net6.0\XndirN1.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\XndirN1\XndirN1\bin\Debug\net6.0\XndirN1.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\XndirN1\XndirN1\obj\Debug\net6.0\XndirN1.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\XndirN1\XndirN1\obj\Debug\net6.0\XndirN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-APSRJKR\source\repos\XndirN1\XndirN1\obj\Debug\net6.0\XndirN1.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\XndirN1\XndirN1\obj\Debug\net6.0\XndirN1.AssemblyInfo.cs
+C:\Users\User.DESKTOP-APSRJKR\source\repos\XndirN1\XndirN1\obj\Debug\net6.0\XndirN1.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\XndirN1\XndirN1\obj\Debug\net6.0\XndirN1.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\XndirN1\XndirN1\obj\Debug\net6.0\refint\XndirN1.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\XndirN1\XndirN1\obj\Debug\net6.0\XndirN1.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\XndirN1\XndirN1\obj\Debug\net6.0\XndirN1.genruntimeconfig.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\XndirN1\XndirN1\obj\Debug\net6.0\ref\XndirN1.dll
